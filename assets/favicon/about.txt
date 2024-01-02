@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Mallanna
+- Font Author: Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Name Nunito
+- Font Source: http://fonts.gstatic.com/s/mallanna/v13/hv-Vlzx-KEQb84YaDGwzEzRwVvJ-.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
